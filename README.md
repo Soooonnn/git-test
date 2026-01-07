@@ -1,27 +1,12 @@
-<h1>Hi🖐️ I'm Soonjae Kwon</h1>
-<p>
+# Kwon Soonjae 🖐️🖐️
 
-</p>
-
-<h2>기술 스택</h2>
-<p>
-    <img src = https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=orange>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
-</p>
-
-<h2>프로젝트</h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3</a></li>
-</ul>
-
-<p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
-</p>
+## Skills ✨
+|Category| Stack |
+| ------- | ---- |
+| OS | ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat-square&logo=windows&logoColor=ffffff)|
+| Languages |![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFDC28.svg?style=flat-square&logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-228B22?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)|
+| Backend | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=ffffff) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=ffffff) |
+| Cloud · Infra	| ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=ffffff) ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat-square&logo=vmware&logoColor=ffffff)|
+| Dev Tools | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=ffffff)|
+| Tools | ![Figma](https://img.shields.io/badge/Figma-F15BB5.svg?style=flat-square&logo=figma&logoColor=ffffff) ![Slack](https://img.shields.io/badge/Slack-5E0E5E.svg?style=flat-square&logo=slack&logoColor=ffffff) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=ffffff) |
