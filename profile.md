@@ -1,4 +1,4 @@
-# Kwon Soonjae 🖐️🖐️
+# Hi🖐️ I'm Kwon Soonjae 
 
 ## Skills ✨
 |Category| Stack |
